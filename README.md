@@ -2,4 +2,4 @@
 
 ![alt text](img/img.png)
 
-# [Чат-бота в Telegram для сайта](https://t.me/ReviewMMORPG_bot)
+# [Чат-бот в Telegram для сайта](https://t.me/ReviewMMORPG_bot)
