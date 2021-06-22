@@ -48,7 +48,8 @@ a:hover, a:focus {
 .img_wrap {
   display: block;
   max-width: 100%;
-  height: auto;
+  height: 230px;
+  width: 800px;
   overflow: hidden;
   border-style: solid;
 }
